@@ -15,3 +15,4 @@ for item in words.split():
         letterslist += list_X
     print('\n'.join(letterslist))
     time.sleep(1.5);
+    
